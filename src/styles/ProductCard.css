@@ -1,0 +1,26 @@
+/* src/styles/ProductCard.css */
+.product-card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 16px;
+    margin: 16px;
+    text-align: center;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .product-card h2 {
+    margin-bottom: 8px;
+    font-size: 1.5em;
+    color: #333;
+  }
+  
+  .product-card p {
+    margin-bottom: 16px;
+    color: #666;
+  }
+  
+  .threed-scene {
+    width: 100%;
+    height: 300px;
+  }
+  
